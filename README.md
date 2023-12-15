@@ -4,11 +4,9 @@
 <br>
 
 
-- 🔭 I’m currently working on [Snake Game](https://github.com/lintmash/JustCause/snake)
 
 - 🌱 I’m currently learning **Java and Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lintmash?tab=repositories](https://github.com/lintmash?tab=repositories)
 
 - 📫 How to reach me **lintmash@gmail.com**
 
