@@ -1,7 +1,7 @@
 # Well Hello there stranger, How did you get to this side of town?
 
 ## (੭*ˊᵕˋ)੭* ̀ˋ what to know: 
-you can call me mash, not mash potato. I'm an aspiring developer, who is continuously improving my skills committed to the loving the craft in hopes that one day. It loves me back.
+you can call me lint-mash, not mash potato. I'm an aspiring developer, who is continuously improving my skills committed to the loving the craft in hopes that one day. It loves me back.
 
 
 
