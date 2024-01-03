@@ -1,8 +1,7 @@
-<h1 align="left">Hi 👋, I'm Lintmash</h1>
-<br>
+# Well Hello there stranger, How did you get to this side of town?
 
 ## (੭*ˊᵕˋ)੭* ̀ˋ what to know: 
-#### I'm an aspiring developer, who is continuously improving my skills. I'm passionate about coding and committed to the love of the craft.
+you can call me mash, not mash potato. I'm an aspiring developer, who is continuously improving my skills committed to the loving the craft in hopes that one day. It loves me back.
 
 
 
@@ -20,6 +19,7 @@
 
 ## Pending Projects :: <a href="[https://www.python.org](https://upload.wikimedia.org)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
+- CloudBuddy
 - Cat Catcher
 - Python bug eater
 - H.A.Y bot
